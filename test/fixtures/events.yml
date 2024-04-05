@@ -1,0 +1,18 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+three:
+  type: Event
+  name: Gafas de sol Carey
+  description: Gafas de sol Carey
+  thumbnail: "https://placehold.co/400x400"
+  details: { date: 2024-04-04 }
+  price_cents: 3999
+
+four:
+  type: Event
+  name: Gafas de sol Carey
+  description: Gafas de sol Carey
+  thumbnail: "https://placehold.co/400x400"
+  details: { date: 2024-04-04 }
+  price_cents: 3999
+
